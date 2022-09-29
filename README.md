@@ -1,12 +1,8 @@
-  👋  Olá, Sou o Gustavo Souza!
-  
-   💬 Estudande do curso de ADS;
-   
-   🔭 Programação em linguagem Python;
-   
-   ⚡ Entusiasta na área de Programação;
-    
-   📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gustavo-souza-945ab7251/).
+👋  Olá, Sou o Gustavo Souza!  
+💬 Estudande do curso de ADS;   
+🔭 Programação em linguagem Python;   
+⚡ Entusiasta na área de Programação;    
+📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gustavo-souza-945ab7251/).
   
   
  <!-- 
